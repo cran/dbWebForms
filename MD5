@@ -1,0 +1,9 @@
+a495240af22bd4df04cefa38bc56996c *DESCRIPTION
+94a3b4c88fc2d7c209070fe11167b48c *NAMESPACE
+d274c19626433d4854116665ef9c4cad *R/dbWebForms.R
+6e6ce2211b92a82962db1d91b304f938 *man/createFetchParamsFunction.Rd
+9e99e1d26d5c60aeca93607004f4e9df *man/createHTMLFormFunction.Rd
+5d16254db9934dc24aa31b19f45946fa *man/dbTableInfo.Rd
+d903a209cdfa15a8e8b86fc4b2acd92b *man/dbTypeToHTMLInputType.Rd
+97d60f921ec844f0234fc59de27cf95a *man/namesToLabels.Rd
+15491ae83b01384bd73e746308c5e47c *man/quoteText.Rd
